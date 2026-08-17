@@ -1,25 +1,27 @@
-# 🚀 Modern Mobile Dev Stack Checklist
+# 🚀 Creator Hub
 
-> **Don't build what's already solved. Build what makes your product different.**
+Actionable checklists, guides, and resources for developers and founders building real products.
 
-A practical checklist for developers and founders choosing their mobile app stack.  
-For every feature, ask: **should I build this, or use an existing solution?**
-
-� **[View the Checklist →](checklists/modern-mobile-dev-stack.md)**
+No fluff. Just the stuff I actually use.
 
 ---
 
-### What's inside:
-- ✅ **USE** recommendations for 15+ categories (framework, backend, auth, payments, analytics, etc.)
-- � **BUILD** guidance — what deserves your engineering time
-- ⚡ Quick Decision Framework — 3 questions to ask for every feature
-- 🏆 Real-world example — exact stack breakdown from [Pulsezy](https://pulsezy.com)
+## 📂 Checklists
+
+| Checklist | Description |
+|-----------|-------------|
+| [Modern Mobile Dev Stack](checklists/modern-mobile-dev-stack.md) | What to build vs. what to use when choosing your mobile app stack |
+
+*More checklists coming soon.*
 
 ---
 
-*Built with real experience, not theory.*  
-**Build what's unique. Use what's already solved.** 🚀
+## 🤝 Contributing
+
+Have a suggestion or want to add something? PRs are welcome.
 
 ---
 
-📬 Questions? DM me on Instagram → [@rakeshvanam](https://instagram.com/rakeshvanam)
+## 📬 Connect
+
+Instagram → [@rakeshvanam](https://instagram.com/rakeshvanam)
