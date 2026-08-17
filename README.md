@@ -1,4 +1,4 @@
-# 🚀 Creator Hub
+# 🚀 Dev Hub
 
 Actionable checklists, guides, and resources for developers and founders building real products.
 
@@ -24,4 +24,4 @@ Have a suggestion or want to add something? PRs are welcome.
 
 ## 📬 Connect
 
-Instagram → [@rakeshvanam](https://instagram.com/rakeshvanam)
+Instagram → [@rakesh.build](https://instagram.com/rakesh.build)
