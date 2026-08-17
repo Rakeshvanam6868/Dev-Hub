@@ -226,6 +226,29 @@ Ask yourself for **every feature**:
 2. **Does every app need this?** (auth, payments, analytics) → USE it
 3. **Am I solving a problem that's already been solved well?** → USE it
 
+---
+
+## 🏆 Real Example: Pulsezy Stack
+
+Here's exactly what I used vs. built for [Pulsezy](https://pulsezy.app):
+
+| Layer | Solution | Build or Use? |
+|-------|----------|---------------|
+| Framework | React Native + Expo | ✅ USE |
+| Backend | Supabase | ✅ USE |
+| Auth | Supabase Auth | ✅ USE |
+| Database | PostgreSQL (via Supabase) | ✅ USE |
+| Subscriptions | RevenueCat | ✅ USE |
+| Error Tracking | Sentry | ✅ USE |
+| Analytics | PostHog | ✅ USE |
+| Push Notifications | Expo Notifications | ✅ USE |
+| Builds & Deploys | EAS Build + Update | ✅ USE |
+| **Adaptive Training Engine** | Custom algorithm | 🛠 **BUILD** |
+| **AI Coaching (Ask Coach)** | Custom pipeline on GPT-4o | 🛠 **BUILD** |
+| **Nutrition Scanner** | Custom UX + GPT-4o Vision | 🛠 **BUILD** |
+| **Workout Flow UX** | Custom screens & interactions | 🛠 **BUILD** |
+
+> **Result:** 80% of the stack is "used" — freeing up all engineering focus on the 20% that makes Pulsezy *Pulsezy*.
 
 ---
 
