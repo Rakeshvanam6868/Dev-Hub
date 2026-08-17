@@ -18,7 +18,7 @@ These are solved problems. Don't waste months rebuilding them.
 | **React Native + Expo** | One codebase, iOS + Android. OTA updates. Massive ecosystem. |
 | **Flutter** | Great performance, beautiful UI. Smaller ecosystem than RN. |
 
-> 💡 **My pick:** React Native with Expo — used it for [Pulsezy](https://pulsezy.com). Expo's managed workflow saves hundreds of hours.
+> 💡 **My pick:** React Native with Expo — used it for [Pulsezy](https://pulsezy.app). Expo's managed workflow saves hundreds of hours.
 
 ---
 
@@ -226,29 +226,6 @@ Ask yourself for **every feature**:
 2. **Does every app need this?** (auth, payments, analytics) → USE it
 3. **Am I solving a problem that's already been solved well?** → USE it
 
----
-
-## 🏆 Real Example: Pulsezy Stack
-
-Here's exactly what I used vs. built for [Pulsezy](https://pulsezy.com):
-
-| Layer | Solution | Build or Use? |
-|-------|----------|---------------|
-| Framework | React Native + Expo | ✅ USE |
-| Backend | Supabase | ✅ USE |
-| Auth | Supabase Auth | ✅ USE |
-| Database | PostgreSQL (via Supabase) | ✅ USE |
-| Subscriptions | RevenueCat | ✅ USE |
-| Error Tracking | Sentry | ✅ USE |
-| Analytics | PostHog | ✅ USE |
-| Push Notifications | Expo Notifications | ✅ USE |
-| Builds & Deploys | EAS Build + Update | ✅ USE |
-| **Adaptive Training Engine** | Custom algorithm | 🛠 **BUILD** |
-| **AI Coaching (Ask Coach)** | Custom pipeline on GPT-4o | 🛠 **BUILD** |
-| **Nutrition Scanner** | Custom UX + GPT-4o Vision | 🛠 **BUILD** |
-| **Workout Flow UX** | Custom screens & interactions | 🛠 **BUILD** |
-
-> **Result:** 80% of the stack is "used" — freeing up all engineering focus on the 20% that makes Pulsezy *Pulsezy*.
 
 ---
 
@@ -256,10 +233,10 @@ Here's exactly what I used vs. built for [Pulsezy](https://pulsezy.com):
 
 ⭐ **Star this repo** to come back to it.  
 📤 **Share it** with a dev friend who's starting a new project.  
-💬 **DM me on Instagram** [@rakeshvanam](https://instagram.com/rakeshvanam) if you have questions.
+💬 **DM me on Instagram** [@rakesh.build](https://instagram.com/rakesh.build) if you have questions.
 
 ---
 
-*Built with real experience, not theory. This is the exact approach I used to ship [Pulsezy](https://pulsezy.com) to production.*
+*Built with real experience, not theory. This is the exact approach I used to ship [Pulsezy](https://pulsezy.app) to production.*
 
 **Build what's unique. Use what's already solved.** 🚀
